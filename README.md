@@ -1,1 +1,1 @@
-# amazon
+# basics of git/gitbash
